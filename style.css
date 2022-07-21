@@ -1,0 +1,9 @@
+#Score {
+    font-size: medium;
+
+}
+#Timer {
+    float: right;
+    font-size: medium;
+    margin-right: 30px;
+}
